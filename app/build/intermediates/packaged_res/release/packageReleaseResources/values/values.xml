@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FFFFFF</color>
+    <color name="divider">#E3E8E6</color>
+    <color name="error">#C62828</color>
+    <color name="primary">#2E7D6B</color>
+    <color name="primary_dark">#1F5B4D</color>
+    <color name="star">#F4B400</color>
+    <color name="surface">#F5F7F6</color>
+    <color name="text_primary">#1F2933</color>
+    <color name="text_secondary">#6B7780</color>
+    <color name="white">#FFFFFF</color>
+    <string name="add_term">Добавить термин</string>
+    <string name="app_name">Словарь терминов</string>
+    <string name="author_info">Автор: Агапов Арсений Александрович\nГруппа: RIBO-02-23</string>
+    <string name="button_back">К списку терминов</string>
+    <string name="button_cancel">Отмена</string>
+    <string name="button_delete">Удалить</string>
+    <string name="button_login">Войти</string>
+    <string name="button_open_dictionary">Открыть словарь</string>
+    <string name="button_save">Сохранить</string>
+    <string name="button_share">Поделиться</string>
+    <string name="delete_message">Термин «%1$s» будет удалён из словаря</string>
+    <string name="delete_title">Удалить термин?</string>
+    <string name="empty_list">Ничего не найдено</string>
+    <string name="error_bad_response">Сервер вернул некорректный ответ</string>
+    <string name="error_empty_definition">Введите определение</string>
+    <string name="error_empty_fields">Заполните логин, пароль и группу</string>
+    <string name="error_empty_term">Введите термин</string>
+    <string name="error_load_data">Не удалось загрузить начальные термины</string>
+    <string name="error_no_network">Нет соединения с сервером. Проверьте интернет</string>
+    <string name="error_term_not_found">Термин не найден</string>
+    <string name="error_wrong_credentials">Неверный логин, пароль или группа</string>
+    <string name="favorite_add">☆ В избранное</string>
+    <string name="favorite_remove">★ В избранном</string>
+    <string name="hint_definition">Определение</string>
+    <string name="hint_group">Группа</string>
+    <string name="hint_login">Логин</string>
+    <string name="hint_password">Пароль</string>
+    <string name="hint_search">Поиск по терминам</string>
+    <string name="hint_term">Термин</string>
+    <string name="login_subtitle">Введите данные, полученные у преподавателя</string>
+    <string name="login_title">Вход</string>
+    <string name="only_favorites">Только избранные</string>
+    <string name="share_chooser">Поделиться через</string>
+    <string name="task_label">Задание курсовой работы</string>
+    <string name="task_variant">Вариант: %1$d</string>
+    <string name="term_added">Термин добавлен</string>
+    <string name="term_deleted">Термин удалён</string>
+    <style name="Theme.Dictionary" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorSecondary">@color/primary</item>
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+</resources>

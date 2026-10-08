@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.mirea.kt.ribo.agapov.app-release-31:/layout_activity_login.xml.flat",
+        "source": "com.mirea.kt.ribo.agapov.app-main-32:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.agapov.app-release-31:/layout_item_term.xml.flat",
+        "source": "com.mirea.kt.ribo.agapov.app-main-32:/layout/item_term.xml"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.agapov.app-release-31:/layout_activity_task.xml.flat",
+        "source": "com.mirea.kt.ribo.agapov.app-main-32:/layout/activity_task.xml"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.agapov.app-release-31:/drawable_bg_search.xml.flat",
+        "source": "com.mirea.kt.ribo.agapov.app-main-32:/drawable/bg_search.xml"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.agapov.app-release-31:/layout_activity_main.xml.flat",
+        "source": "com.mirea.kt.ribo.agapov.app-main-32:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.agapov.app-release-31:/drawable_ic_add.xml.flat",
+        "source": "com.mirea.kt.ribo.agapov.app-main-32:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.agapov.app-release-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.mirea.kt.ribo.agapov.app-main-32:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.agapov.app-release-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.mirea.kt.ribo.agapov.app-main-32:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.agapov.app-release-31:/layout_activity_term.xml.flat",
+        "source": "com.mirea.kt.ribo.agapov.app-main-32:/layout/activity_term.xml"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.agapov.app-release-31:/drawable_ic_launcher.xml.flat",
+        "source": "com.mirea.kt.ribo.agapov.app-main-32:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.agapov.app-release-31:/layout_dialog_add_term.xml.flat",
+        "source": "com.mirea.kt.ribo.agapov.app-main-32:/layout/dialog_add_term.xml"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\stav\\.gradle\\daemon\\8.7\\com.mirea.kt.ribo.agapov.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\stav\\.gradle\\daemon\\8.7\\com.mirea.kt.ribo.agapov.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\stav\\.gradle\\daemon\\8.7\\com.mirea.kt.ribo.agapov.app-debug-31:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\stav\\.gradle\\daemon\\8.7\\com.mirea.kt.ribo.agapov.app-main-33:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\stav\\.gradle\\daemon\\8.7\\com.mirea.kt.ribo.agapov.app-debug-31:\\layout_item_term.xml.flat",
+        "source": "C:\\Users\\stav\\.gradle\\daemon\\8.7\\com.mirea.kt.ribo.agapov.app-main-33:\\layout\\item_term.xml"
+    },
+    {
+        "merged": "C:\\Users\\stav\\.gradle\\daemon\\8.7\\com.mirea.kt.ribo.agapov.app-debug-31:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\stav\\.gradle\\daemon\\8.7\\com.mirea.kt.ribo.agapov.app-main-33:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\stav\\.gradle\\daemon\\8.7\\com.mirea.kt.ribo.agapov.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\stav\\.gradle\\daemon\\8.7\\com.mirea.kt.ribo.agapov.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\stav\\.gradle\\daemon\\8.7\\com.mirea.kt.ribo.agapov.app-debug-31:\\layout_activity_term.xml.flat",
+        "source": "C:\\Users\\stav\\.gradle\\daemon\\8.7\\com.mirea.kt.ribo.agapov.app-main-33:\\layout\\activity_term.xml"
+    },
+    {
+        "merged": "C:\\Users\\stav\\.gradle\\daemon\\8.7\\com.mirea.kt.ribo.agapov.app-debug-31:\\layout_dialog_add_term.xml.flat",
+        "source": "C:\\Users\\stav\\.gradle\\daemon\\8.7\\com.mirea.kt.ribo.agapov.app-main-33:\\layout\\dialog_add_term.xml"
+    },
+    {
+        "merged": "C:\\Users\\stav\\.gradle\\daemon\\8.7\\com.mirea.kt.ribo.agapov.app-debug-31:\\drawable_bg_search.xml.flat",
+        "source": "C:\\Users\\stav\\.gradle\\daemon\\8.7\\com.mirea.kt.ribo.agapov.app-main-33:\\drawable\\bg_search.xml"
+    },
+    {
+        "merged": "com.mirea.kt.ribo.agapov.app-debug-31:/layout_activity_task.xml.flat",
+        "source": "com.mirea.kt.ribo.agapov.app-main-33:/layout/activity_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\stav\\.gradle\\daemon\\8.7\\com.mirea.kt.ribo.agapov.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\stav\\.gradle\\daemon\\8.7\\com.mirea.kt.ribo.agapov.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\stav\\.gradle\\daemon\\8.7\\com.mirea.kt.ribo.agapov.app-debug-31:\\drawable_ic_launcher.xml.flat",
+        "source": "C:\\Users\\stav\\.gradle\\daemon\\8.7\\com.mirea.kt.ribo.agapov.app-main-33:\\drawable\\ic_launcher.xml"
+    }
+]
